@@ -24,7 +24,7 @@ setup(
         "numpy>=1.20",
         "xarray>=0.20",
         "scipy>=1.6",
-        "numba>=2.1.3",
+        "numba>=0.61.2",
         "metpy>=1.5",
         "pint>=0.20",
     ],
