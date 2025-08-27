@@ -24,7 +24,7 @@ setup(
         "numpy>=1.20",
         "xarray>=0.20",
         "scipy>=1.6",
-        # If the code relies on MetPy/Pint, keep these; otherwise remove.
+        "numba>=2.1.3",
         "metpy>=1.5",
         "pint>=0.20",
     ],
